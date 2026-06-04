@@ -12,6 +12,12 @@ const helloEntries = <HelloEntry>[
     message: '我的第一个hello world',
   ),
 
+  HelloEntry(
+    name: '王宝龙',
+    studentId: '12024215170',
+    message: '创建新的提交，修改了hello world的内容',
+  ),
+
   // Team members can copy this block and add their own hello message.
   //
   // HelloEntry(
