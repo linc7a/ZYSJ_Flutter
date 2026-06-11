@@ -26,6 +26,16 @@ const changeLogs = <ChangeLogEntry>[
     ],
   ),
 
+  ChangeLogEntry(
+    name: '角明恒',
+    studentId: '12024215176',
+    summary: '在 Hello World 练习区添加了个人信息（姓名、学号、第一句问候语），并在开发记录区记录本次贡献内容。',
+    files: [
+      'lib/data/hello_entries.dart',
+      'lib/data/change_logs.dart',
+    ],
+  ),
+
   // After finishing a feature, team members can copy this block and record
   // what they changed.
   //
