@@ -18,6 +18,12 @@ const helloEntries = <HelloEntry>[
     message: '创建新的提交，修改了hello world的内容',
   ),
 
+  HelloEntry(
+    name: '角明恒',
+    studentId: '12024215176',
+    message: '大家好，我的第一个 Hello World！Flutter 真的很好玩。',
+  ),
+
   // Team members can copy this block and add their own hello message.
   //
   // HelloEntry(
